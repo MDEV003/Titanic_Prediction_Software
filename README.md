@@ -1,2 +1,2 @@
-# Titanic_Prediction_Software
+# Titanic Prediction Software
  
